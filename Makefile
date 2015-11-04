@@ -196,7 +196,7 @@ export KBUILD_BUILDHOST := $(SUBARCH)
 #CROSS_COMPILE	?= $(CONFIG_CROSS_COMPILE:"%"=%)
 ARCH		?= arm
 #CROSS_COMPILE	?= arm-linux-androideabi-
-CROSS_COMPILE	?= /home/cm/android/darkmoon_kk/toolchain/arm-linux-androideabi-4.7/bin/arm-linux-androideabi-
+CROSS_COMPILE	?= /home/cm/android/flare3_kk/toolchain/arm-linux-androideabi-4.7/bin/arm-linux-androideabi-
 
 
 # Architecture as present in compile.h
